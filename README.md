@@ -54,14 +54,6 @@ The goal is to translate customer and sales data into actionable business recomm
 
 **CAGR:** Summarizes the average compounded annual growth rate over a period, used here to explore changes in customer segments and product combinations.
 
-## Report
-
-The full report contains the five dashboards, charts, technical appendix, and references. See **`230713279.docx`** if it is included in this repository.
-
-## Scope and Notes
-
-This README summarizes the findings reported in the coursework. The underlying dataset, dashboard source files, and executable code were not provided alongside the report, so no installation or reproduction instructions are included. Findings describe observed associations and do not by themselves establish causation.
-
 ## References
 
 The report references the *Customer Winback Benchmark Study* (WinBack Lab, 2023), Duffy (1998) on customer loyalty strategies, and Suite Feedback (2019) on customer experience. Full citations are provided in the report.
